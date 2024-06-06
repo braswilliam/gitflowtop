@@ -1,4 +1,4 @@
-# Git e Versionamento:
+# Git, GitHub, GitHub Cli,  configurações e clone de repositório de remoto.
 
 ## Versionamento:
 
@@ -28,7 +28,7 @@ A maioria da operações feitas pelo Git são locais e por isso boa parte das op
 ### Ubuntu/Debian
 
 ```bash
-bashCopiar código
+
 sudo apt update
 sudo apt install git
 
@@ -37,7 +37,7 @@ sudo apt install git
 ### Fedora
 
 ```bash
-bashCopiar código
+
 sudo dnf install git
 
 ```
@@ -47,7 +47,7 @@ sudo dnf install git
 Para CentOS/RHEL 8:
 
 ```bash
-bashCopiar código
+
 sudo dnf install git
 
 ```
@@ -55,7 +55,7 @@ sudo dnf install git
 Para CentOS/RHEL 7:
 
 ```bash
-bashCopiar código
+
 sudo yum install git
 
 ```
@@ -63,7 +63,7 @@ sudo yum install git
 ### Arch Linux
 
 ```bash
-bashCopiar código
+
 sudo pacman -S git
 
 ```
@@ -71,7 +71,7 @@ sudo pacman -S git
 ### OpenSUSE
 
 ```bash
-bashCopiar código
+
 sudo zypper install git
 
 ```
