@@ -1,3 +1,5 @@
+# Git e Versionamento:
+
 ## Versionamento:
 
 ➡️ Registro de mudanças em arquivos, que possibilita recuperação ou acesso a versões anteriores;
@@ -102,13 +104,13 @@ PS C:\Users\filmi>
 Se você não gosta de usar linhas de comando. Lembrando que é essencial para quem estuda programação.
 Nele você já loga com a sua conta do git já estará tudo pronto para trabalhar com versionamento.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/779a53c4-77ef-41d7-9b07-e538264dd305/629d5129-38be-434a-8f05-b0263527881f/Untitled.png)
+![Untitled](Git%20e%20Versionamento%20e97ffd4083f14d839244981920683bbb/Untitled.png)
 
 ### IDEs como VS Code:
 
 Algumas IDEs possuem como VS Code, Intellij, Pycharm,  possuem o terminal como ferramenta de trabalho. Facilitando o versionamento de código.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/779a53c4-77ef-41d7-9b07-e538264dd305/e4fd0e0b-c27a-44e5-9ba9-7edeb5bdfac7/Untitled.png)
+![Untitled](Git%20e%20Versionamento%20e97ffd4083f14d839244981920683bbb/Untitled%201.png)
 
 ## Configurando o Git:
 
@@ -230,11 +232,11 @@ https://github.com/cli/cli/blob/trunk/docs/install_linux.md
 
 Isso aqui é um repositório no GitHub:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/779a53c4-77ef-41d7-9b07-e538264dd305/117872db-3bbf-47e0-a76a-39ab3db20c89/Untitled.png)
+![Untitled](Git%20e%20Versionamento%20e97ffd4083f14d839244981920683bbb/Untitled%202.png)
 
 Lá em cima, no canto superior direito tem a opção **`<>code`**. Vamos clicar lá.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/779a53c4-77ef-41d7-9b07-e538264dd305/e29c07d5-67fd-4342-9526-d3169f8aba30/Untitled.png)
+![Untitled](Git%20e%20Versionamento%20e97ffd4083f14d839244981920683bbb/Untitled%203.png)
 
 ### Nota**!**
 
@@ -269,11 +271,11 @@ Exemplo:
 
 **Gerando o token opção classic:**
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/779a53c4-77ef-41d7-9b07-e538264dd305/29919e21-9d44-4d9f-99f8-117992e8461b/Untitled.png)
+![Untitled](Git%20e%20Versionamento%20e97ffd4083f14d839244981920683bbb/Untitled%204.png)
 
 **Veja o que eu falei:**
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/779a53c4-77ef-41d7-9b07-e538264dd305/98a6246d-9219-4a52-8083-b2f0e5e382fd/Untitled.png)
+![Untitled](Git%20e%20Versionamento%20e97ffd4083f14d839244981920683bbb/Untitled%205.png)
 
 Nessa opção você pode gerar um token pra você com todas as permissões ou para o usuários limitando as permissões e ainda por cima colocar um prazo de validade para essa chave de acesso.  
 
@@ -281,11 +283,11 @@ Caso esteja aprendendo a usar a ferramenta, marque todas as opções. Coloque se
 
 8 - depois de tudo efetuado, agora é só gerar o token de acesso:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/779a53c4-77ef-41d7-9b07-e538264dd305/7e34d917-5486-4048-9e73-581c8117be04/Untitled.png)
+![Untitled](Git%20e%20Versionamento%20e97ffd4083f14d839244981920683bbb/Untitled%206.png)
 
 9 - Depois de clicado é só copiar o token de acesso e ir para o abraço!
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/779a53c4-77ef-41d7-9b07-e538264dd305/15c7f0aa-2973-4e59-9946-7805528892ea/Untitled.png)
+![Untitled](Git%20e%20Versionamento%20e97ffd4083f14d839244981920683bbb/Untitled%207.png)
 
 10 - Copia esse código e já deixa em um bloco de anotações. E nem adianta pegar esse código, porque ele já vai ser deletado, meu nobre!
 
@@ -300,11 +302,11 @@ Caso esteja aprendendo a usar a ferramenta, marque todas as opções. Coloque se
 
 11.5 -  escolha a opção  **`Paste an authentication token`**  usando o direcional **`⭡⭣⭠⭢`** do seu teclado.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/779a53c4-77ef-41d7-9b07-e538264dd305/ca873774-433f-4f58-b55d-43cf3921b680/Untitled.png)
+![Untitled](Git%20e%20Versionamento%20e97ffd4083f14d839244981920683bbb/Untitled%208.png)
 
 12.6 - Depois de selecionado… é só finalmente inserir o seu token:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/779a53c4-77ef-41d7-9b07-e538264dd305/bb4844d5-8768-450f-85e1-9b75ff06d8fa/Untitled.png)
+![Untitled](Git%20e%20Versionamento%20e97ffd4083f14d839244981920683bbb/Untitled%209.png)
 
 ### `Pronto! configuração concluida com sucesso.`
 
@@ -313,7 +315,7 @@ Caso esteja aprendendo a usar a ferramenta, marque todas as opções. Coloque se
 Comando de clonagem do repositório HTTP:
 Na aba HTTPS copie o link abaixo:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/779a53c4-77ef-41d7-9b07-e538264dd305/e29c07d5-67fd-4342-9526-d3169f8aba30/Untitled.png)
+![Untitled](Git%20e%20Versionamento%20e97ffd4083f14d839244981920683bbb/Untitled%203.png)
 
 No seu repositório local → Em qualquer lugar nas pastas de seu computador, de preferência nas pastas onde você costuma guardar projetos de estudo ou até mesmo projetos de trabalho…
 Use o comando abaixo para clonar do repositório remoto.
@@ -327,7 +329,7 @@ Use o comando abaixo para clonar do repositório remoto.
 
 ### `No meu PC roda 1:`  Veja a prova do projeto clonado no PC:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/779a53c4-77ef-41d7-9b07-e538264dd305/79e00185-fa7b-411b-bab6-c6e59eba5cf5/Untitled.png)
+![Untitled](Git%20e%20Versionamento%20e97ffd4083f14d839244981920683bbb/Untitled%2010.png)
 
 ### 2º Formato - SSH
 
@@ -337,7 +339,7 @@ Use o comando abaixo para clonar do repositório remoto.
 
 Comando de clonagem SSH:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/779a53c4-77ef-41d7-9b07-e538264dd305/01af07e8-c317-4fc0-91b8-25b9979c0a02/Untitled.png)
+![Untitled](Git%20e%20Versionamento%20e97ffd4083f14d839244981920683bbb/Untitled%2011.png)
 
 ## **`Atenção!`**
 
@@ -377,11 +379,11 @@ Seu git Gerou uma chave SSH no Diretório:   `c/Users/**seuUsuario**/.ssh`   ***
 
 No PowerShell:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/779a53c4-77ef-41d7-9b07-e538264dd305/6da63b2f-fc78-4f84-a8c5-a47e8683459b/Untitled.png)
+![Untitled](Git%20e%20Versionamento%20e97ffd4083f14d839244981920683bbb/Untitled%2012.png)
 
 No GitBash:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/779a53c4-77ef-41d7-9b07-e538264dd305/38c038a8-052f-4528-8e4e-b47301a88438/Untitled.png)
+![Untitled](Git%20e%20Versionamento%20e97ffd4083f14d839244981920683bbb/Untitled%2013.png)
 
 6 - Dentro dessa pasta existe o arquivo **`id_ed25519.pub`** 
 
@@ -407,7 +409,7 @@ Copia todo o conteúdo da chave.
 
 11 - Na  Aba:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/779a53c4-77ef-41d7-9b07-e538264dd305/5e1f257e-baf3-4305-a786-c08449689054/Untitled.png)
+![Untitled](Git%20e%20Versionamento%20e97ffd4083f14d839244981920683bbb/Untitled%2014.png)
 
 clique em new SSH Key
 
@@ -461,7 +463,7 @@ O terminal retornará a seguinte mensagem:
 Comando de clonagem do repositório HTTP:
 Na aba SSH copie o link abaixo:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/779a53c4-77ef-41d7-9b07-e538264dd305/d5a5ec22-0607-4366-b658-9611292d4cdb/Untitled.png)
+![Untitled](Git%20e%20Versionamento%20e97ffd4083f14d839244981920683bbb/Untitled%2015.png)
 
 No seu repositório local → Em qualquer lugar nas pastas de seu computador, de preferência nas pastas onde você costuma guardar projetos de estudo ou até mesmo projetos de trabalho…
 Use o comando abaixo para clonar do repositório remoto.
@@ -488,14 +490,14 @@ Configuração na sua máquina:
 
 6 - Assim que clicado em **`Login with a web browser`** seu terminal vai gerar um código, ex: `First copy your one-time code: SEU-CODIGO` ****copia esse código e aperte a tecla **`[Enter]`.** Automaticamente vai abrir o seu navegador com a página de autenticação do GitHub exemplo:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/779a53c4-77ef-41d7-9b07-e538264dd305/fadf7715-0aad-42f1-9afe-a1cd67943898/Untitled.png)
+![Untitled](Git%20e%20Versionamento%20e97ffd4083f14d839244981920683bbb/Untitled%2016.png)
 
 Cole o código aqui dentro 
 
 7 - Por fim autorize o uso do GitHub Cli a ter acesso ao seu usuário.
 8 - insira a sua senha do github e sucesso.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/779a53c4-77ef-41d7-9b07-e538264dd305/8f707028-7928-470d-8586-bd3b2c46266b/Untitled.png)
+![Untitled](Git%20e%20Versionamento%20e97ffd4083f14d839244981920683bbb/Untitled%2017.png)
 
 ### `Pronto!`
 
@@ -507,7 +509,7 @@ Seu terminal o notificará com a seguinte informação:
 Comando de clonagem do repositório usando GitHub Cli:
 Na aba GitHub Cli copie o link abaixo:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/779a53c4-77ef-41d7-9b07-e538264dd305/4b38b1a0-a41f-460b-81ff-2c523184b1ff/Untitled.png)
+![Untitled](Git%20e%20Versionamento%20e97ffd4083f14d839244981920683bbb/Untitled%2018.png)
 
 No seu repositório local → Em qualquer lugar nas pastas de seu computador, de preferência nas pastas onde você costuma guardar projetos de estudo ou até mesmo projetos de trabalho…
 Use o comando abaixo para clonar do repositório remoto.
