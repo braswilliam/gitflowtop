@@ -515,3 +515,10 @@ No seu repositório local → Em qualquer lugar nas pastas de seu computador, de
 Use o comando abaixo para clonar do repositório remoto.
 
 ### `gh repo clone braswilliam/gitflowtop`
+
+## Com essas informações encerro os seguintes tópicos:
+
+- O que é o Git.
+- O que é um repositório remoto.
+- O que é o GitHub Cli.
+- A enumeras maneiras de se clonar um repositório remoto.
